@@ -17,9 +17,13 @@
             <div class="top_bgn"></div>
         </div>
         <div class="left">
+           
             <img src="images/login/login2.jpg" />
         </div>
-
+        <div class="textBox">
+             <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox><br />
+             <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
+        </div>
     </div>
     </form>
 </body>
