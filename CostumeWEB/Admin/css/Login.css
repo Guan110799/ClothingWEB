@@ -1,0 +1,25 @@
+﻿/* CSS Document */
+
+* {
+    margin:0;
+    padding:0;
+}
+
+.login {
+    width:460px;
+    height:auto;
+    margin:0 auto;
+}
+
+.top{
+    height:50px;
+}
+    .top .top_img {
+       float:left;
+
+    }
+    .top .top_bgn{
+        height:35px;
+        background-color:red;
+        float:left;
+    }
